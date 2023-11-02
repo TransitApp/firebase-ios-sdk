@@ -171,8 +171,8 @@ let package = Package(
       revision: "c5eeaa6dde7c308a5ce48ae4d4530462dd3a1110"
     ),
     .package(
-      url: "https://github.com/firebase/leveldb.git",
-      "1.22.2" ..< "1.23.0"
+      url: "https://github.com/TransitApp/leveldb.git",
+      revision: "29c036c1be278892a56608a64b06f2d30461348c"
     ),
     .package(
       url: "https://github.com/SlaunchaMan/GCDWebServer.git",
