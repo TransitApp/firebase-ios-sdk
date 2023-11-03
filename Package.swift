@@ -172,7 +172,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/TransitApp/leveldb.git",
-      revision: "29c036c1be278892a56608a64b06f2d30461348c"
+      revision: "4c9c8fc80ea7a9245e60b187fd031435ffef7a19"
     ),
     .package(
       url: "https://github.com/SlaunchaMan/GCDWebServer.git",
